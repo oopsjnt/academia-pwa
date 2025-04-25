@@ -1,1 +1,1 @@
-web: flet aluno_app.py --web --port $PORT
+web: python aluno_app.py
